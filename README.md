@@ -8,4 +8,4 @@ Noindex GitHub Pages copy of the themagicchair.com hero. Only the hero image `mc
 - Do not attach a custom domain or point themagicchair.com here.
 - The live site is unchanged. A live swap needs John's named yes on the ticket.
 
-Files: `video/magic-chair-hero-3x4.mp4` (900x1200, used by the page), `deliverables/` (1080x1440 master and poster frame).
+Files: `video/magic-chair-hero-with-bg-3x4.mp4` (900x1200, used by the page since ticket AMC-2026-11-27-magic-chair-hero-video-with-bg: John's picked HeyGen render with its own background, cropped to 3:4, burned-in captions, plus a WebVTT captions track), `video/magic-chair-hero-3x4.mp4` (earlier background-removed version, no longer used), `deliverables/` (1080x1440 master and poster frame).
